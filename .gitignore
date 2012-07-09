@@ -26,4 +26,4 @@ examples/takescreenshots.js
 *.lck
 *.pngnode_modules
 
-node_modules
+node_modules/

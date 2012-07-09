@@ -24,4 +24,6 @@ examples/takescreenshots.js
 .DS_Store
 *.log
 *.lck
-*.png
+*.pngnode_modules
+
+node_modules
